@@ -1,4 +1,4 @@
-<div align="center">Hello, I'm Charfweh~</div>
+<div align="center"><h1>Hello, I'm Charfweh~</h1></div><hr>
 
 [![Carefree's github stats](https://github-readme-stats.vercel.app/api?username=charfweh&show_icons=true&theme=tokyonight)](https://github.com/charfweh)
 
@@ -9,3 +9,7 @@
 
 ## Languages that I've most worked on
 [![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=charfweh&layout=compact&theme=tokyonight)](https://github.com/charfweh)
+
+## Find Me:
+:mailbox_with_mail: **Discord**: Carefree#4601
+
