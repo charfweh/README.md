@@ -11,5 +11,5 @@
 [![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=charfweh&layout=compact&theme=tokyonight)](https://github.com/charfweh)
 
 ## Find Me:
-<h4>:mailbox_with_mail: **Discord**: Carefree#4601</h4>
+<p "style=font-size:"38px">:mailbox_with_mail: **Discord**: Carefree#4601</p>
 
