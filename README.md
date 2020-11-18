@@ -1,6 +1,6 @@
 <div align="center"><h1>:wave: Hello, I'm Care~</h1></div>
 
-[![Carefree's github stats](https://github-readme-stats.vercel.app/api?username=charfweh&show_icons=true&theme=tokyonight)](https://github.com/charfweh)
+[![Carefree's github stats](https://github-readme-stats.vercel.app/api?username=charfweh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/charfweh)
 
 ## :bulb: Helpful Repositories 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charfweh&repo=discord-bot-dashboard)](https://github.com/charfweh/discord-bot-dashboard)
