@@ -11,5 +11,5 @@
 [![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=charfweh&layout=compact&theme=tokyonight)](https://github.com/charfweh)
 
 ## :earth_asia: Find Me:
-<h3> :mailbox: Discord: Carefree#4601</h3>
+<h3> :mailbox: Discord: Care#4601</h3>
 
