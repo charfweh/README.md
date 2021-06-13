@@ -1,4 +1,4 @@
-<div align="center"><h1>:wave: Hello, I'm Care~</h1></div>
+<div align="center"><h1>:wave: Hello, I'm Affan</h1></div>
 
 [![Carefree's github stats](https://github-readme-stats.vercel.app/api?username=charfweh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/charfweh)
 
