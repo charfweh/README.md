@@ -11,5 +11,6 @@
 [![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=charfweh&layout=compact&theme=tokyonight)](https://github.com/charfweh)
 
 ## :earth_asia: Find Me:
-<h3 align = "left"> :mailbox: Discord: Care#4601</h3> <h3 align="right">:email: affan.engg0@gmail.com</h3>
+:mailbox: Discord: Care#4601</br> 
+:email: Email: affan.engg0@gmail.com
 
