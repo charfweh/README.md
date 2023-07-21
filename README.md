@@ -10,6 +10,8 @@
 ## :keyboard: Languages that I've most worked on
 [![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=charfweh&layout=compact&theme=tokyonight)](https://github.com/charfweh)
 
+## :book: Blog
+:book: Infosec blog: https://personal-blog-charfweh.vercel.app/
 ## :earth_asia: Find Me:
 :mailbox: Discord: Care#4601</br> 
 :email: Email: affan.engg0@gmail.com
